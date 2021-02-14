@@ -1,0 +1,139 @@
+C:\Users\janto\Documents\Visual Studio 2015\Projects\PeristalticPump\PeristalticPump\bin\Debug\PeristalticPump.exe.config
+C:\Users\janto\Documents\Visual Studio 2015\Projects\PeristalticPump\PeristalticPump\bin\Debug\PeristalticPump.exe
+C:\Users\janto\Documents\Visual Studio 2015\Projects\PeristalticPump\PeristalticPump\bin\Debug\PeristalticPump.pdb
+C:\Users\janto\Documents\Visual Studio 2015\Projects\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.csprojResolveAssemblyReference.cache
+C:\Users\janto\Documents\Visual Studio 2015\Projects\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.Properties.Resources.resources
+C:\Users\janto\Documents\Visual Studio 2015\Projects\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.csproj.GenerateResource.Cache
+C:\Users\janto\Documents\Visual Studio 2015\Projects\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.exe
+C:\Users\janto\Documents\Visual Studio 2015\Projects\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.pdb
+C:\Users\janto\Documents\Visual Studio 2015\Projects\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.Form1.resources
+C:\Users\janto\Documents\Visual Studio 2015\Projects\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.Form2.resources
+C:\Users\janto\Documents\Visual Studio 2015\Projects\PeristalticPump\PeristalticPump\bin\Debug\PeristalticPump.exe.manifest
+C:\Users\janto\Documents\Visual Studio 2015\Projects\PeristalticPump\PeristalticPump\bin\Debug\PeristalticPump.application
+C:\Users\janto\Documents\Visual Studio 2015\Projects\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.exe.manifest
+C:\Users\janto\Documents\Visual Studio 2015\Projects\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.application
+C:\Users\janto\Documents\Visual Studio 2015\Projects\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.Form3.resources
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\bin\Debug\PeristalticPump.exe.config
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\bin\Debug\PeristalticPump.exe.manifest
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\bin\Debug\PeristalticPump.application
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\bin\Debug\PeristalticPump.exe
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\bin\Debug\PeristalticPump.pdb
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.csprojAssemblyReference.cache
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.Form1.resources
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.Form2.resources
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.Form3.resources
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.Properties.Resources.resources
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.csproj.GenerateResource.cache
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.csproj.CoreCompileInputs.cache
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.exe.manifest
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.application
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.exe
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.pdb
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.Form4.resources
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\bin\Debug\x86\liblept1753.dll
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\bin\Debug\x86\libtesseract3052.dll
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\bin\Debug\x64\liblept1753.dll
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\bin\Debug\x64\libtesseract3052.dll
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\bin\Debug\Tesseract.dll
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.csproj.CopyComplete
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.cube.bigrams
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.cube.fold
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.cube.lm
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.cube.nn
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.cube.params
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.cube.size
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.cube.word-freq
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.tesseract_cube.nn
+C:\Users\janto\OneDrive\Počítač\OIP + pH + čerpadlo\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.traineddata
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\x86\liblept1753.dll
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\x86\libtesseract3052.dll
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\x64\liblept1753.dll
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\x64\libtesseract3052.dll
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.cube.bigrams
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.cube.fold
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.cube.lm
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.cube.nn
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.cube.params
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.cube.size
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.cube.word-freq
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.tesseract_cube.nn
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.traineddata
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\PeristalticPump.exe.config
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\PeristalticPump.exe.manifest
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\PeristalticPump.application
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\PeristalticPump.exe
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\PeristalticPump.pdb
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\Tesseract.dll
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.csprojAssemblyReference.cache
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.Form1.resources
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.Form2.resources
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.Form3.resources
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.Form4.resources
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.Properties.Resources.resources
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.csproj.GenerateResource.cache
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.csproj.CoreCompileInputs.cache
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.exe.manifest
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.application
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.csproj.CopyComplete
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.exe
+C:\Users\janto\OneDrive\Počítač\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.pdb
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\x86\liblept1753.dll
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\x86\libtesseract3052.dll
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\x64\liblept1753.dll
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\x64\libtesseract3052.dll
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.cube.bigrams
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.cube.fold
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.cube.lm
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.cube.nn
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.cube.params
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.cube.size
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.cube.word-freq
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.tesseract_cube.nn
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\tessdata\eng.traineddata
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\PeristalticPump.exe.config
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\PeristalticPump.exe.manifest
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\PeristalticPump.application
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\PeristalticPump.exe
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\PeristalticPump.pdb
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\bin\Debug\Tesseract.dll
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.csprojResolveAssemblyReference.cache
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.Form1.resources
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.Form2.resources
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.Form3.resources
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.Form4.resources
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.Properties.Resources.resources
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.csproj.GenerateResource.Cache
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.exe.manifest
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.application
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.exe
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\PeristalticPump\PeristalticPump\obj\Debug\PeristalticPump.pdb
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\bin\Debug\x86\liblept1753.dll
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\bin\Debug\x86\libtesseract3052.dll
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\bin\Debug\x64\liblept1753.dll
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\bin\Debug\x64\libtesseract3052.dll
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\bin\Debug\tessdata\eng.cube.bigrams
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\bin\Debug\tessdata\eng.cube.fold
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\bin\Debug\tessdata\eng.cube.lm
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\bin\Debug\tessdata\eng.cube.nn
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\bin\Debug\tessdata\eng.cube.params
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\bin\Debug\tessdata\eng.cube.size
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\bin\Debug\tessdata\eng.cube.word-freq
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\bin\Debug\tessdata\eng.tesseract_cube.nn
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\bin\Debug\tessdata\eng.traineddata
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\bin\Debug\PeristalticPump.exe.config
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\bin\Debug\PeristalticPump.exe.manifest
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\bin\Debug\PeristalticPump.application
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\bin\Debug\PeristalticPump.exe
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\bin\Debug\PeristalticPump.pdb
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\bin\Debug\Tesseract.dll
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\obj\Debug\PeristalticPump.csprojResolveAssemblyReference.cache
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\obj\Debug\PeristalticPump.Form1.resources
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\obj\Debug\PeristalticPump.Form2.resources
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\obj\Debug\PeristalticPump.Form3.resources
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\obj\Debug\PeristalticPump.Form4.resources
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\obj\Debug\PeristalticPump.Properties.Resources.resources
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\obj\Debug\PeristalticPump.csproj.GenerateResource.Cache
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\obj\Debug\PeristalticPump.exe.manifest
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\obj\Debug\PeristalticPump.application
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\obj\Debug\PeristalticPump.exe
+C:\Users\janto\Desktop\Program bez automatizovaného hladanie COM portov\Optical-Immersion-Probe-Automation\Program_Source_Code\PeristalticPump\obj\Debug\PeristalticPump.pdb

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="PeristalticPump.exe" version="1.0.0.1" publicKeyToken="4e55044240962186" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="PeristalticPump" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="PeristalticPump.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Možnosti manifestu pro nástroj Řízení uživatelských účtů
+          Pokud chcete změnit úroveň nástroje Řízení uživatelských účtů, nahraďte 
+          uzel requestedExecutionLevel jednou z následujících hodnot.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Pokud chcete využívat virtualizaci souborů a registru pro zpětnou 
+         kompatibilitu, pak uzel requestedExecutionLevel odstraňte.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PeristalticPump.exe" size="58336">
+      <assemblyIdentity name="PeristalticPump" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>REhHWnuUfpmy1AAmmWa9kbmzXD+yR5fcO9Pzko3uLKY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="PeristalticPump.exe.config" size="1911">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>vwj2moHhf7dyx38NdBGpbWQjqy1/lKXN8UZu1zqQW6I=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-QH5DOAD\Janko" issuerKeyHash="bf9b30ebf7457fd823c35094284d4978dd68d49d" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>ZCDe34bEvPLSLwHDBoFgGAis4Xlw93zV0VbSUI1jju8=</DigestValue></Reference></SignedInfo><SignatureValue>t5CGH2Texa5IJwW1PcRfo5/t/PNwYFIdaT44yKI7GBRJVCMbqje0/f76EAwnh5h3oE/+f1qTE498GYBd7LfwJLXX0ov91PWtM+lDCXq5FHiF1QdekSDgW532tsycntaKfM1QLD2DyTZ96MQjqBXHQjbJ5ceudNj4u4G3vUPnh+g=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>1lfFwXj0jU6Coh8Ynrzv5rWxwVzpOXx+6eY/rWq2ceYYc6dPvsBLcrPABinK5E4W8vTlyMcrsOuPrHkSKTYRCl7rG1vkfdcFJUKoEwoqaxPJf8MmcfGPpTwzskQIWnjRaPD30x9JVDU3gCsVS3q0I/kE+UfxotgOPosxmEleNlU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ef8e638d50d256d1d57cf77079e1ac0818608106c3012fd2f2bcc486dfde2064" Description="" Url=""><as:assemblyIdentity name="PeristalticPump.exe" version="1.0.0.1" publicKeyToken="4e55044240962186" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-QH5DOAD\Janko</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>jpe6RsE94p/rC9aIuE31l3npBhTP5NTf2b8qUkrdOb4=</DigestValue></Reference></SignedInfo><SignatureValue>VUyX0XbnQsn+BHkmrMohVEp1z6WpCsoDkJigQkO6SaBKPQBccVdKp4lF6s9rK795gIJTrJFwNRGb991F63WGsbdyRIapzXhenVM9OfgoEAsGD6I58xLauQqNNwZBmtV4oUOPyLt8GjVtJLaurpnlmARYgnOLeoeHhc5La6Srhas=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>1lfFwXj0jU6Coh8Ynrzv5rWxwVzpOXx+6eY/rWq2ceYYc6dPvsBLcrPABinK5E4W8vTlyMcrsOuPrHkSKTYRCl7rG1vkfdcFJUKoEwoqaxPJf8MmcfGPpTwzskQIWnjRaPD30x9JVDU3gCsVS3q0I/kE+UfxotgOPosxmEleNlU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQYakBBP2lv5ZJXHbpIHb3TzANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFEASAA1AEQATwBBAEQAXABKAGEAbgBrAG8wHhcNMjAwOTExMTE1ODAwWhcNMjEwOTExMTc1ODAwWjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFEASAA1AEQATwBBAEQAXABKAGEAbgBrAG8wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANZXxcF49I1OgqIfGJ687+a1scFc6Tl8funmP61qtnHmGHOnT77AS3KzwAYpyuROFvL05cjHK7Drj6x5Eik2EQpe6xtb5H3XBSVCqBMKKmsTyX/DJnHxj6U8M7JECFp40Wjw99MfSVQ1N4ArFUt6tCP5BPlH8aLYDj6LMZhJXjZVAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAQzuMnNDVwwQpUUOd6U3t60LAWs/xhFKYQbO8s1vr5Kysfqc8qKRldyWLmG3bWLGZlrOKbNXiMJuxknDxRf7eZXH1lfDUUwsoTcWif9GIdkhkh8Zx+snqY5plEQrjuHJvSVpO5M+xqNwi1/+lsTXs6oCOfRp6PygkBR6WqgHh03o=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
